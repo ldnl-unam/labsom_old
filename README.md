@@ -1,7 +1,7 @@
 # LabSOM
 LabSOM (Self-Organizing Maps Laboratory)
 
-To download current version, please follow the instructions: http://www.dynamics.unam.edu/DinamicaNoLineal3/labsom.htm
+If needed, remove .pdf extension
 
 Instructional videos at: https://www.youtube.com/playlist?list=PLOjAg8MbeIzRni15XLzVA1RmIa1vxwCzi
 
